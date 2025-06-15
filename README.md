@@ -29,7 +29,7 @@ This repository contains experiments and sample projects using [LangChain](https
    - `OPENAI_API_KEY` for OpenAI access
    - `PINECONE_API_KEY` for Pinecone access
 
-4. **Activate your virtual environment:**
+4. **Activate virtual environment:**
    ```bash
    poetry shell
    ```
